@@ -1,2 +1,3 @@
 # esp32-cam
 codes for esp32-cam controling with servo, web server...
+- in Arduino IDE Sellect board name **AI Thinker ESP32-CAM**, and USB port
